@@ -1,2 +1,2 @@
-# FS2020
-File Structures course self-study
+# File Structures course self-study
+
